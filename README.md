@@ -1,6 +1,6 @@
 Refrence : 
 ```
-(https://security.snyk.io/package/npm/jquery.filer)
+https://security.snyk.io/package/npm/jquery.filer
 ```
 
 # installation on linux
